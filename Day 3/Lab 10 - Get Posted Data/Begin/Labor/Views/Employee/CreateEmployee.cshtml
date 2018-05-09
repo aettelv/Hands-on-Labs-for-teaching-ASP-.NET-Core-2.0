@@ -1,0 +1,14 @@
+﻿@{
+    ViewBag.Title = "Create Employee";
+}
+
+<h2>Create Employee</h2>
+    <div>
+        <form action="/Employee/SaveEmployee" method="post">
+            <p>First Name: <input type="text" id="TxtFName" name="FirstName" value="" /><p />
+            <p>Last Name: <input type="text" id="TxtLName" name="LastName" value="" /><p />
+            <p>Salary: <input type="text" id="TxtSalary" name="Salary" value="" /><p />
+            <input type="submit" name="BtnSave" value="Save Employee" />
+            <input type="button" name="BtnReset" value="Reset" />
+        </form>
+    </div>

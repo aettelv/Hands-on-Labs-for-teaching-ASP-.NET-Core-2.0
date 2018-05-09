@@ -1,0 +1,8 @@
+C:\Users\aette\Documents\MVC Clean\Day 3\Day 3\Lab 8 - Data Access Layer\End\Facade\bin\Debug\Facade.dll
+C:\Users\aette\Documents\MVC Clean\Day 3\Day 3\Lab 8 - Data Access Layer\End\Facade\bin\Debug\Facade.pdb
+C:\Users\aette\Documents\MVC Clean\Day 3\Day 3\Lab 8 - Data Access Layer\End\Facade\bin\Debug\Core.dll
+C:\Users\aette\Documents\MVC Clean\Day 3\Day 3\Lab 8 - Data Access Layer\End\Facade\bin\Debug\Core.pdb
+C:\Users\aette\Documents\MVC Clean\Day 3\Day 3\Lab 8 - Data Access Layer\End\Facade\obj\Debug\Facade.csprojResolveAssemblyReference.cache
+C:\Users\aette\Documents\MVC Clean\Day 3\Day 3\Lab 8 - Data Access Layer\End\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+C:\Users\aette\Documents\MVC Clean\Day 3\Day 3\Lab 8 - Data Access Layer\End\Facade\obj\Debug\Facade.dll
+C:\Users\aette\Documents\MVC Clean\Day 3\Day 3\Lab 8 - Data Access Layer\End\Facade\obj\Debug\Facade.pdb
